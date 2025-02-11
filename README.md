@@ -76,5 +76,3 @@ This project is an expansion of [SensorServer’s Real-Time Plot Example](https:
 - **SensorServer Project** – for providing the foundation.
 - **PyQt & PyQtGraph** – for real-time visualization.
 
-🚀 Happy coding!
-
